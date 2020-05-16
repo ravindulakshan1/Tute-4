@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tute-4</string>
+    <string name="editName">editName</string>
+    <string name="editPwd">editPwd</string>
+    <string name="add">add</string>
+    <string name="signin">signin</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="txtUN">txtUN</string>
+    <string name="txtPwd">txtPwd</string>
+</resources>
